@@ -1,0 +1,94 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-color: #003366;
+  color: white;
+  text-align: center;
+  align-content: flex-start;
+  padding: 50px 0;
+}
+
+nav {
+  background-color: #0055a5;
+  text-align: left;
+  padding: 10px 0;
+}
+
+nav a {
+    align-content: flex-start;
+    align-items: baseline;
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+/* .h1 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  text-align: center;
+  align-content: center;
+  padding: 20px;
+} */
+.s1{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+
+}
+
+.profile-img {
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid #ccc;
+}
+
+.h2 {
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+.s2{
+    align-items: center;
+    text-align: center;
+    align-content: baseline;
+}
+.h3{
+    align-content: center;
+    background-color: #ccc;
+}
+.s3{
+    align-items: center;
+    text-align: center;
+    align-content: baseline;
+}
+.p{
+    text-decoration: none;
+    text-decoration-line: underline;
+    background-color: aliceblue;
+}
+.h4{
+    background-color: #ddd;
+    align-content: center;
+    padding: 10px;
+}
+.s4{
+    align-items: center;
+    text-align: center;
+    align-content: baseline;
+}
+
+
+footer {
+  background-color: #003366;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
